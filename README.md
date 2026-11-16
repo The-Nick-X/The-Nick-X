@@ -1,13 +1,13 @@
-<!-- 1. HACKER MATRIX TYPING HEADER -->
+<!-- 1. CUSTOM CSS ANIMATED HACKER SVG BANNER -->
 <p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=680&lines=%3E_root%40The-Nick-X:~%24+whoami;Full-Stack+%26+Software+Developer](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=680&lines=%3E_root%40The-Nick-X:~%24+whoami;Full-Stack+%26+Software+Developer)+💻;C%2C+C%2B%2B%2C+Java%2C+Python%2C+PHP%2C+JS%2C+React%2C+Node.js;Linux+Enthusiast+🐧+%7C+System+Access+Granted" alt="Hacker Typing SVG" />
+  <img src="./hacker-banner.svg" alt="The-Nick-X Hacker Banner" width="100%" />
 </p>
 
 ---
 
 <!-- 2. ABOUT ME + HACKER TERMINAL GIF ANIMATION -->
 # 💫 About Me:
-<img align="right" alt="Hacker Coding Animation" width="250" src="[https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)">
+<img align="right" alt="Hacker Coding Animation" width="250" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif">
 
 <pre>
 $ cat about_me.txt
@@ -29,11 +29,11 @@ $ cat about_me.txt
 <!-- 4. MATRIX THEME GITHUB STATS -->
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="[https://github-readme-stats.shion.dev/api?username=The-Nick-X&theme=matrix&hide_border=false&include_all_commits=false&count_private=false](https://github-readme-stats.shion.dev/api?username=The-Nick-X&theme=matrix&hide_border=false&include_all_commits=false&count_private=false)" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=The-Nick-X&theme=matrix&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br/>
-  <img src="[https://streak-stats.demolab.com/?user=The-Nick-X&theme=matrix&hide_border=false](https://streak-stats.demolab.com/?user=The-Nick-X&theme=matrix&hide_border=false)" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=The-Nick-X&theme=matrix&hide_border=false" alt="GitHub Streak" />
   <br/>
-  <img src="[https://github-readme-stats.shion.dev/api/top-langs/?username=The-Nick-X&theme=matrix&hide_border=false&include_all_commits=false&count_private=false&layout=compact](https://github-readme-stats.shion.dev/api/top-langs/?username=The-Nick-X&theme=matrix&hide_border=false&include_all_commits=false&count_private=false&layout=compact)" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=The-Nick-X&theme=matrix&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
@@ -41,16 +41,16 @@ $ cat about_me.txt
 <!-- 5. CONTRIBUTION SNAKE ANIMATION -->
 # 🐍 Contribution Graph Snake:
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/The-Nick-X/The-Nick-X/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/The-Nick-X/The-Nick-X/output/github-contribution-grid-snake-dark.svg)" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/The-Nick-X/The-Nick-X/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
 
 <!-- 6. PROFILE VIEWS & HACKER NEON GREEN FOOTER -->
 <p align="center">
-  <img src="[https://komarev.com/ghpvc/?username=The-Nick-X&icon=0&color=00FF41&style=for-the-badge](https://komarev.com/ghpvc/?username=The-Nick-X&icon=0&color=00FF41&style=for-the-badge)" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=The-Nick-X&icon=0&color=00FF41&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:003B00,100:00FF41&height=90&section=footer](https://capsule-render.vercel.app/api?type=waving&color=0:003B00,100:00FF41&height=90&section=footer)" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003B00,100:00FF41&height=90&section=footer" alt="Footer Wave" />
 </p>
