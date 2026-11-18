@@ -1,56 +1,60 @@
-<!-- 1. CUSTOM CSS ANIMATED HACKER SVG BANNER -->
+<h1 align="center">Hi 👋, I'm The-Nick-X</h1>
+<h3 align="center">A passionate Full-Stack & Software Developer from India</h3>
+
 <p align="center">
-  <img src="./hacker-banner.svg" alt="The-Nick-X Hacker Banner" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=The-Nick-X&style=flat-square&color=blue" alt="The-Nick-X" />
+  <img src="https://img.shields.io/github/followers/The-Nick-X?label=Follow&style=flat-square" alt="Followers" />
 </p>
 
 ---
 
-<!-- 2. ABOUT ME -->
-# 💫 About Me:
-<img align="right" alt="Hacker Coding Animation" width="250" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif">
-
-<pre>
-$ cat about_me.txt
+## 💻 About Me
 > 💻 Full-Stack & Software Developer
 > 🛠️ C, C++, Java, Python, PHP, JS, React, Node.js
 > 🐧 Linux Enthusiast | Open to collaborate
-</pre>
-
-<br clear="right"/>
 
 ---
 
-<!-- 3. TECH STACK -->
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-<!-- 4. GITHUB STATS -->
-# 📊 GitHub Stats:
+## 🎨 Creative Coding (Python Turtle Animation)
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=The-Nick-X&theme=matrix&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=The-Nick-X&theme=matrix&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=The-Nick-X&theme=matrix&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <!-- यहाँ आपकी भेजी गई पाइथन टर्टल डिज़ाइन से मिलती-जुलती एनिमेटेड गिफ/इमेज है -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b56e-0d88af5fc5e4.gif" alt="Python Turtle Animation" width="400px">
 </p>
 
 ---
 
-<!-- 5. CONTRIBUTION SNAKE ANIMATION -->
-# 🐍 Contribution Graph Snake:
+## 🛠️ Tech Stack & Tools
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/The-Nick-X/The-Nick-X/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,javascript,react,nodejs,html,css,aws,cloudflare,netlify,oracle,firebase,render,mysql,linux,apache" />
+</p>
+
+* **Languages & Frameworks:** C, C++, Java, Python, PHP, JavaScript, React.js, Node.js, AdonisJS, HTML5, CSS3
+* **Databases & Cloud/DevOps:** MySQL, Oracle, Firebase, AWS, Cloudflare, Netlify, Render, Linux, Apache
+
+---
+
+## 📊 GitHub Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=The-Nick-X&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="The-Nick-X's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Nick-X&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-<!-- 6. FOOTER -->
+### 🐍 Contribution Graph Snake Animation
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=The-Nick-X&icon=0&color=00FF41&style=for-the-badge" alt="Profile Views" />
+  <img src="https://raw.githubusercontent.com/The-Nick-X/The-Nick-X/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
+---
+
+## 📬 Connect with me
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003B00,100:00FF41&height=90&section=footer" alt="Footer Wave" />
+  <!-- आप यहाँ अपने सोशल मीडिया लिंक्स जोड़ सकते हैं -->
+  <a href="https://github.com/The-Nick-X" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
