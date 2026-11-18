@@ -1,8 +1,6 @@
 name: Metrics
 on:
-  # हर 24 घंटे में ऑटोमैटिक अपडेट होगा
   schedule: [{cron: "0 0 * * *"}]
-  # मैन्युअल रूप से भी रन कर सकते हैं
   workflow_dispatch:
   push: {branches: ["main"]}
 
@@ -14,27 +12,35 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # अपना गिटहब यूजरनेम यहाँ लिखें
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # डैशबोर्ड में क्या-क्या दिखाना है (आप अपनी पसंद के अनुसार बदल सकते हैं)
           user: The-Nick-X
           template: classic
           base: header, activity, community, repositories, metadata
-          plugins_errors_fatal: true
-          
-          # 1. कमिट्स का 3D ग्राफ / कैलेंडर
+          config_timezone: Asia/Kolkata
+
+          # 1. Coding Habits (घंटे और दिन के हिसाब से कमिट ग्राफ)
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          # 2. 3D Isometric Contributions Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # 2. सबसे ज्यादा इस्तेमाल होने वाली भाषाएं
+          # 3. Most Used Languages (बार ग्राफ के साथ)
           plugin_languages: yes
-          plugin_languages_ignored: html, css # जिन्हें छोड़ना हो
           plugin_languages_details: bytes, percentage
           plugin_languages_limit: 8
 
-          # 3. आपकी स्किल्स / टेक्नोलॉजी आइकॉन्स (नीचे अपने हिसाब से बदल सकते हैं)
+          # 4. Mastered Technologies & Topics (आइकॉन्स)
           plugin_topics: yes
-          plugin_topics_mode: icons
-          plugin_topics_limit: 15
+          plugin_topics_mode: mastered
+          plugin_topics_limit: 18
+
+          # 5. Projects (प्रोजेक्ट्स की जानकारी)
+          plugin_projects: yes
+          plugin_projects_limit: 2
