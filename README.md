@@ -17,7 +17,7 @@
 
 ## 🎨 Creative Coding (Python Turtle Animation)
 <p align="center">
-  <!-- यहाँ आपकी भेजी गई पाइथन टर्टल डिज़ाइन से मिलती-जुलती एनिमेटेड गिफ/इमेज है -->
+  <!-- यहाँ आपकी भेजी गई पाइथन टर्टल डिज़ाइन से मिलती-जुलती एनिमेटेड गिफ/इमेज है -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b56e-0d88af5fc5e4.gif" alt="Python Turtle Animation" width="400px">
 </p>
 
@@ -29,8 +29,8 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,javascript,react,nodejs,html,css,aws,cloudflare,netlify,oracle,firebase,render,mysql,linux,apache" />
 </p>
 
-* **Languages & Frameworks:** C, C++, Java, Python, PHP, JavaScript, React.js, Node.js, AdonisJS, HTML5, CSS3
-* **Databases & Cloud/DevOps:** MySQL, Oracle, Firebase, AWS, Cloudflare, Netlify, Render, Linux, Apache
+- **Languages & Frameworks:** C, C++, Java, Python, PHP, JavaScript, React.js, Node.js, AdonisJS, HTML5, CSS
+- **Databases & Cloud/DevOps:** MySQL, Oracle, Firebase, AWS, Cloudflare, Netlify, Render, Linux, Apache
 
 ---
 
@@ -46,6 +46,13 @@
 
 ---
 
+## 📈 GitHub Metrics Dashboard
+<p align="center">
+  <img src="https://github.com/The-Nick-X/The-Nick-X/blob/main/metrics.svg" alt="GitHub Metrics" width="100%" />
+</p>
+
+---
+
 ### 🐍 Contribution Graph Snake Animation
 <p align="center">
   <img src="https://raw.githubusercontent.com/The-Nick-X/The-Nick-X/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
@@ -55,6 +62,6 @@
 
 ## 📬 Connect with me
 <p align="center">
-  <!-- आप यहाँ अपने सोशल मीडिया लिंक्स जोड़ सकते हैं -->
+  <!-- आप यहाँ अपने सोशल मीडिया लिंक्स जोड़ सकते हैं -->
   <a href="https://github.com/The-Nick-X" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
